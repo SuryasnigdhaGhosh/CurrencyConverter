@@ -1,13 +1,13 @@
 # CurrencyConverter
 
-#Prerequisites
+# Prerequisites
 
-##Before you begin, ensure you have the following software and tools installed on your computer:
-Node.js and npm. Download and install them from https://nodejs.org/.
+## Before you begin, ensure you have the following software and tools installed on your computer: 
+   Node.js and npm. Download and install them from https://nodejs.org/.
 
-##Getting Started
+## Getting Started
 
-###Download the file into a directory and open the directory in the terminal and follow the following points:
+### Download the file into a directory and open the directory in the terminal and follow the following points:
 
 1.npm init
 The interactive init command will prompt you to set some fields in your config.
